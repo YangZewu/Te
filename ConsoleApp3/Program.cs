@@ -7,6 +7,8 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             //这是一个控制台
+            Console.WriteLine("Hello World");
+            Console.ReadKey();
         }
     }
 }
